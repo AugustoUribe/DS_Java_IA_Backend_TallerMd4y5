@@ -1,0 +1,11 @@
+
+target/
+.git/
+.github/
+.idea/
+.vscode/
+secrets.properties
+**/secrets.properties
+**/target/
+*.log
+
